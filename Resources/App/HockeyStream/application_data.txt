@@ -1,0 +1,1557 @@
+{
+  "version": 3,
+  "stream_categories": [
+    {
+      "name": "NHL",
+      "is_sections_sorted_alphabetically": false,
+      "stream_sections": [
+        {
+          "name": "",
+          "streams": [
+            {
+              "short_name": "NHL",
+              "name": "NHL",
+              "users": [
+                {
+                  "full_name": "NHL",
+                  "user_name": "NHL"
+                }
+              ]
+            }
+          ],
+          "each_user_in_own_stream": false
+        },
+        {
+          "name": "Teams",
+          "streams": [
+            {
+              "short_name": "Ducks",
+              "name": "Anaheim Ducks",
+              "users": [
+                {
+                  "full_name": "Anaheim Ducks",
+                  "user_name": "AnaheimDucks"
+                },
+                {
+                  "full_name": "Bobby Ryan",
+                  "user_name": "b_ryan9"
+                },
+                {
+                  "full_name": "Cameron Fowler",
+                  "user_name": "camfowler4"
+                },
+                {
+                  "full_name": "George Parros",
+                  "user_name": "Stache16"
+                },
+                {
+                  "full_name": "Kyle Palmieri",
+                  "user_name": "kylepalmieri"
+                },
+                {
+                  "full_name": "Matt Beleskey",
+                  "user_name": "Matt_Beleskey"
+                },
+                {
+                  "full_name": "Nick Bonino",
+                  "user_name": "NickBonino"
+                },
+                {
+                  "full_name": "Troy Bodie",
+                  "user_name": "TroyBodie"
+                }
+              ]
+            },
+            {
+              "short_name": "Bruins",
+              "name": "Boston Bruins",
+              "users": [
+                {
+                  "full_name": "Boston Bruins",
+                  "user_name": "NHLBruins"
+                },
+                {
+                  "full_name": "Tyler Seguin",
+                  "user_name": "tylerseguin92"
+                }
+              ]
+            },
+            {
+              "short_name": "Sabres",
+              "name": "Buffalo Sabres",
+              "users": [
+                {
+                  "full_name": "Brayden Mcnabb",
+                  "user_name": "nabber03"
+                },
+                {
+                  "full_name": "Buffalo Sabres",
+                  "user_name": "SabresDotCom"
+                },
+                {
+                  "full_name": "Derek Roy",
+                  "user_name": "Roy9ner"
+                },
+                {
+                  "full_name": "Jhonas Enroth",
+                  "user_name": "JEnroth125"
+                },
+                {
+                  "full_name": "Luke Adam",
+                  "user_name": "LukeJAdam"
+                },
+                {
+                  "full_name": "Nathan Gerbe",
+                  "user_name": "NathanGerbe42"
+                },
+                {
+                  "full_name": "Travis Turnbull",
+                  "user_name": "TravisTurnbull9"
+                }
+              ]
+            },
+            {
+              "short_name": "Flames",
+              "name": "Calgary Flames",
+              "users": [
+                {
+                  "full_name": "Calgary Flames",
+                  "user_name": "NHLFlames"
+                },
+                {
+                  "full_name": "Dave Moss",
+                  "user_name": "djmoss25"
+                },
+                {
+                  "full_name": "Michael Cammalleri",
+                  "user_name": "MCammalleri93"
+                },
+                {
+                  "full_name": "Mikael Backlund",
+                  "user_name": "mbacklund11"
+                },
+                {
+                  "full_name": "Olli Jokinen",
+                  "user_name": "ollijokinen13"
+                }
+              ]
+            },
+            {
+              "short_name": "Hurricanes",
+              "name": "Carolina Hurricanes",
+              "users": [
+                {
+                  "full_name": "Anthony Stewart",
+                  "user_name": "EhStew13"
+                },
+                {
+                  "full_name": "Carolina Hurricanes",
+                  "user_name": "nhl_canes"
+                },
+                {
+                  "full_name": "Derek Joslin",
+                  "user_name": "Djos27"
+                },
+                {
+                  "full_name": "Jamie McBain",
+                  "user_name": "jbain4"
+                },
+                {
+                  "full_name": "Justin Faulk",
+                  "user_name": "JustinFaulk27"
+                },
+                {
+                  "full_name": "Patrick Dwyer",
+                  "user_name": "pattydwyer39"
+                },
+                {
+                  "full_name": "Tim Brent",
+                  "user_name": "Brenter37"
+                },
+                {
+                  "full_name": "Zac Dalpe",
+                  "user_name": "ZacDalpe22"
+                },
+                {
+                  "full_name": "Zach Boychuk",
+                  "user_name": "ZachBoychuk"
+                }
+              ]
+            },
+            {
+              "short_name": "Blackhawks",
+              "name": "Chicago Blackhawks",
+              "users": [
+                {
+                  "full_name": "Andrew Shaw",
+                  "user_name": "shawz15er"
+                },
+                {
+                  "full_name": "Brandon Bollig",
+                  "user_name": "Bollig87"
+                },
+                {
+                  "full_name": "Brendan Morrison",
+                  "user_name": "7bmo"
+                },
+                {
+                  "full_name": "Bryan Bickell",
+                  "user_name": "bbicks29"
+                },
+                {
+                  "full_name": "Chicago Blackhawks",
+                  "user_name": "NHLBlackhawks"
+                },
+                {
+                  "full_name": "Daniel Carcillo",
+                  "user_name": "CarBombBoom13"
+                },
+                {
+                  "full_name": "Dave Bolland",
+                  "user_name": "DaveBolland"
+                },
+                {
+                  "full_name": "Jimmy Hayes",
+                  "user_name": "Jimmy10Hayes"
+                },
+                {
+                  "full_name": "Patrick Kane",
+                  "user_name": "88PKane"
+                },
+                {
+                  "full_name": "Sami Lepisto",
+                  "user_name": "SamiLepisto"
+                },
+                {
+                  "full_name": "Steve Montador",
+                  "user_name": "SteveMontador"
+                },
+                {
+                  "full_name": "Viktor Stalberg",
+                  "user_name": "VStalberg"
+                }
+              ]
+            },
+            {
+              "short_name": "Avalanche",
+              "name": "Colorado Avalanche",
+              "users": [
+                {
+                  "full_name": "Colorado Avalanche",
+                  "user_name": "Avalanche"
+                },
+                {
+                  "full_name": "Gabriel Landeskog",
+                  "user_name": "GabeLandeskog92"
+                },
+                {
+                  "full_name": "Jamie McGinn",
+                  "user_name": "JamieMcGinn64"
+                },
+                {
+                  "full_name": "Jonas Holøs",
+                  "user_name": "jHolos"
+                },
+                {
+                  "full_name": "Matt Duchene",
+                  "user_name": "Matt9Duchene"
+                },
+                {
+                  "full_name": "Shane O'Brien",
+                  "user_name": "ShaneOBrien55"
+                }
+              ]
+            },
+            {
+              "short_name": "Blue Jackets",
+              "name": "Columbus Blue Jackets",
+              "users": [
+                {
+                  "full_name": "Columbus Blue Jackets",
+                  "user_name": "BlueJacketsNHL"
+                },
+                {
+                  "full_name": "Curtis Sanford",
+                  "user_name": "CurtisSanford"
+                },
+                {
+                  "full_name": "Derek Dorsett",
+                  "user_name": "Twigy15"
+                },
+                {
+                  "full_name": "Derick Brassard",
+                  "user_name": "dbrassard16"
+                },
+                {
+                  "full_name": "James Wisniewski",
+                  "user_name": "jameswisniewski"
+                },
+                {
+                  "full_name": "Marc Methot",
+                  "user_name": "MarcMethot3"
+                },
+                {
+                  "full_name": "Mark Dekanich",
+                  "user_name": "dexshow"
+                },
+                {
+                  "full_name": "Matthew Calvert",
+                  "user_name": "mattcalvert11"
+                },
+                {
+                  "full_name": "Nick Drazenovic",
+                  "user_name": "Drazzy1010"
+                },
+                {
+                  "full_name": "RJ Umberger",
+                  "user_name": "Umby18"
+                },
+                {
+                  "full_name": "Ryan Johansen",
+                  "user_name": "RyanJohansen19"
+                }
+              ]
+            },
+            {
+              "short_name": "Stars",
+              "name": "Dallas Stars",
+              "users": [
+                {
+                  "full_name": "Alex Goligoski",
+                  "user_name": "gollygoose33"
+                },
+                {
+                  "full_name": "Brenden Morrow",
+                  "user_name": "Minimo1zero"
+                },
+                {
+                  "full_name": "Brian Sutherby",
+                  "user_name": "BrianSutherby"
+                },
+                {
+                  "full_name": "Dallas Stars",
+                  "user_name": "DallasStars"
+                },
+                {
+                  "full_name": "Eric Nystrom",
+                  "user_name": "enystrom23"
+                },
+                {
+                  "full_name": "Jamie Benn",
+                  "user_name": "jamiebenn14"
+                },
+                {
+                  "full_name": "Jordie Benn ",
+                  "user_name": "dartheighter"
+                },
+                {
+                  "full_name": "Mark Fistric",
+                  "user_name": "Fistric28"
+                },
+                {
+                  "full_name": "Mike Ribeiro",
+                  "user_name": "ribz63"
+                },
+                {
+                  "full_name": "Richard Bachman",
+                  "user_name": "Bacher31"
+                },
+                {
+                  "full_name": "Sheldon Souray",
+                  "user_name": "SSouray"
+                },
+                {
+                  "full_name": "Steve Ott",
+                  "user_name": "otter2nine"
+                },
+                {
+                  "full_name": "Tobias Petersen",
+                  "user_name": "TeeP17"
+                }
+              ]
+            },
+            {
+              "short_name": "Red Wings",
+              "name": "Detroit Red Wings",
+              "users": [
+                {
+                  "full_name": "Brendan Smith",
+                  "user_name": "bssmith7"
+                },
+                {
+                  "full_name": "Cory Emmerton",
+                  "user_name": "cemmer48"
+                },
+                {
+                  "full_name": "Detroit Red Wings",
+                  "user_name": "DetroitRedWings"
+                }
+              ]
+            },
+            {
+              "short_name": "Oilers",
+              "name": "Edmonton Oilers",
+              "users": [
+                {
+                  "full_name": "Colt Teubert",
+                  "user_name": "tubes33"
+                },
+                {
+                  "full_name": "Edmonton Oilers",
+                  "user_name": "NHL_Oilers"
+                },
+                {
+                  "full_name": "Jeff Petry",
+                  "user_name": "PetryJ"
+                },
+                {
+                  "full_name": "Jordan Eberle",
+                  "user_name": "ebs_14"
+                },
+                {
+                  "full_name": "Linus Omark ",
+                  "user_name": "Limpanomark"
+                },
+                {
+                  "full_name": "Magnus Pääjärvi",
+                  "user_name": "mps_91"
+                },
+                {
+                  "full_name": "Ryan Jones",
+                  "user_name": "jonesry28"
+                },
+                {
+                  "full_name": "Ryan Nugent-Hopkins ",
+                  "user_name": "RNH_93"
+                },
+                {
+                  "full_name": "Ryan Whitney",
+                  "user_name": "ryanwhitney6"
+                },
+                {
+                  "full_name": "Taylor Chorney",
+                  "user_name": "tchorney41"
+                },
+                {
+                  "full_name": "Taylor Hall",
+                  "user_name": "hallsy04"
+                },
+                {
+                  "full_name": "Theo Peckham",
+                  "user_name": "PECKS24"
+                }
+              ]
+            },
+            {
+              "short_name": "Panthers",
+              "name": "Florida Panthers",
+              "users": [
+                {
+                  "full_name": "Florida Panthers",
+                  "user_name": "FlaPanthers"
+                },
+                {
+                  "full_name": "Jack Skille",
+                  "user_name": "JackSkille"
+                },
+                {
+                  "full_name": "Jacob Markstrom",
+                  "user_name": "j_markstrom"
+                },
+                {
+                  "full_name": "Jason Garrison",
+                  "user_name": "JasonGarrison52"
+                },
+                {
+                  "full_name": "Keaton Ellerby",
+                  "user_name": "ellerby88"
+                },
+                {
+                  "full_name": "Krys Barch",
+                  "user_name": "krysbarch"
+                },
+                {
+                  "full_name": "Scott Timmins",
+                  "user_name": "S_Timmins"
+                },
+                {
+                  "full_name": "Scottie Upshall",
+                  "user_name": "ScottieUpshall"
+                },
+                {
+                  "full_name": "Shawn Matthias",
+                  "user_name": "ShawnMatthias"
+                },
+                {
+                  "full_name": "Wojtek Wolski",
+                  "user_name": "WojtekWolski86"
+                }
+              ]
+            },
+            {
+              "short_name": "Kings",
+              "name": "Los Angeles Kings",
+              "users": [
+                {
+                  "full_name": "Anze Kopitar",
+                  "user_name": "AnzeKopitar"
+                },
+                {
+                  "full_name": "Corey Elkins",
+                  "user_name": "CoreyElkins"
+                },
+                {
+                  "full_name": "Dustin Brown",
+                  "user_name": "DustinBrown23"
+                },
+                {
+                  "full_name": "Jack Johnson",
+                  "user_name": "JackJohnson3"
+                },
+                {
+                  "full_name": "Jonathan Quick",
+                  "user_name": "JonathanQuick32"
+                },
+                {
+                  "full_name": "Kevin Westgarth",
+                  "user_name": "KWesty19"
+                },
+                {
+                  "full_name": "Los Angeles Kings",
+                  "user_name": "LAKings"
+                },
+                {
+                  "full_name": "Mike Richards",
+                  "user_name": "MRichie_10"
+                }
+              ]
+            },
+            {
+              "short_name": "Wild",
+              "name": "Minnesota Wild",
+              "users": [
+                {
+                  "full_name": "Devin Setoguchi",
+                  "user_name": "Dsetoguchi10"
+                },
+                {
+                  "full_name": "Justin Falk",
+                  "user_name": "JuicerFalk"
+                },
+                {
+                  "full_name": "Matt Hackett",
+                  "user_name": "MattHackett31"
+                },
+                {
+                  "full_name": "Matt Kassian",
+                  "user_name": "kassassination"
+                },
+                {
+                  "full_name": "Minnesota Wild",
+                  "user_name": "mnwild"
+                },
+                {
+                  "full_name": "Steven Kampfer",
+                  "user_name": "SteveKampfer47"
+                }
+              ]
+            },
+            {
+              "short_name": "Canadiens",
+              "name": "Montreal Canadiens",
+              "users": [
+                {
+                  "full_name": "Blake Geoffrion",
+                  "user_name": "BlakeGeoffrion"
+                },
+                {
+                  "full_name": "Brian Gionta",
+                  "user_name": "Giostyle21"
+                },
+                {
+                  "full_name": "Mathieu Darche",
+                  "user_name": "matdarche52"
+                },
+                {
+                  "full_name": "Max Pacioretty",
+                  "user_name": "MaxPacioretty67"
+                },
+                {
+                  "full_name": "Montreal Canadiens",
+                  "user_name": "CanadiensMTL"
+                },
+                {
+                  "full_name": "P.K. Subban",
+                  "user_name": "PKSubban1"
+                },
+                {
+                  "full_name": "Rene Bourque",
+                  "user_name": "rbourque17"
+                },
+                {
+                  "full_name": "Yannick Weber",
+                  "user_name": "yanweber68"
+                }
+              ]
+            },
+            {
+              "short_name": "Predators",
+              "name": "Nashville Predators",
+              "users": [
+                {
+                  "full_name": "Brian McGrattan",
+                  "user_name": "bigern10"
+                },
+                {
+                  "full_name": "Hal Gill",
+                  "user_name": "Skillsy75"
+                },
+                {
+                  "full_name": "Jon Blum",
+                  "user_name": "JonBlum7"
+                },
+                {
+                  "full_name": "Jordin Tootoo",
+                  "user_name": "Jtootoo22"
+                },
+                {
+                  "full_name": "Mike Fisher",
+                  "user_name": "mikefisher1212"
+                },
+                {
+                  "full_name": "Nashville Predators",
+                  "user_name": "PredsNHL"
+                }
+              ]
+            },
+            {
+              "short_name": "Devils",
+              "name": "New Jersey Devils",
+              "users": [
+                {
+                  "full_name": "New Jersey Devils",
+                  "user_name": "NHLDevils"
+                },
+                {
+                  "full_name": "Patrik Elias",
+                  "user_name": "pelias"
+                }
+              ]
+            },
+            {
+              "short_name": "Islanders",
+              "name": "New York Islanders",
+              "users": [
+                {
+                  "full_name": "Bruno Gervais",
+                  "user_name": "bruno_gervais27"
+                },
+                {
+                  "full_name": "Justin Dibenedetto",
+                  "user_name": "Thedibster09"
+                },
+                {
+                  "full_name": "Kevin Poulin",
+                  "user_name": "KevinPoulin60"
+                },
+                {
+                  "full_name": "Kyle Okposo",
+                  "user_name": "bookerT2116"
+                },
+                {
+                  "full_name": "Matt Donovan",
+                  "user_name": "MattDonovan46"
+                },
+                {
+                  "full_name": "Matt Martin",
+                  "user_name": "mattymarts17"
+                },
+                {
+                  "full_name": "Matt Moulson",
+                  "user_name": "MMoulson"
+                },
+                {
+                  "full_name": "Michael Grabner",
+                  "user_name": "grabs40"
+                },
+                {
+                  "full_name": "New York Islanders",
+                  "user_name": "NYIslanders"
+                },
+                {
+                  "full_name": "Nino Niederreiter",
+                  "user_name": "thelnino25"
+                },
+                {
+                  "full_name": "P.A. Parenteau",
+                  "user_name": "PAParenteau"
+                },
+                {
+                  "full_name": "Rob Schremp",
+                  "user_name": "RobSchremp"
+                },
+                {
+                  "full_name": "Trevor Frischmon",
+                  "user_name": "TFrisch39"
+                }
+              ]
+            },
+            {
+              "short_name": "Rangers",
+              "name": "New York Rangers",
+              "users": [
+                {
+                  "full_name": "Artem Anisimov",
+                  "user_name": "Anisimov42"
+                },
+                {
+                  "full_name": "Brad Richards",
+                  "user_name": "BRichards_1991"
+                },
+                {
+                  "full_name": "Brandon Dubinsky",
+                  "user_name": "BDubi17"
+                },
+                {
+                  "full_name": "Brandon Prust",
+                  "user_name": "BrandonPrust8"
+                },
+                {
+                  "full_name": "Carl Hagelin",
+                  "user_name": "CarlHagelin"
+                },
+                {
+                  "full_name": "Derek Stepan",
+                  "user_name": "DerekStepan21"
+                },
+                {
+                  "full_name": "Henrik Lundqvist",
+                  "user_name": "HLundqvist30"
+                },
+                {
+                  "full_name": "John Mitchell",
+                  "user_name": "mitchabov"
+                },
+                {
+                  "full_name": "Marián Gáborík",
+                  "user_name": "MGaborik10"
+                },
+                {
+                  "full_name": "Martin Biron",
+                  "user_name": "martybiron43"
+                },
+                {
+                  "full_name": "Michael Del Zotto",
+                  "user_name": "MichaelDelZotto"
+                },
+                {
+                  "full_name": "Mike Rupp",
+                  "user_name": "Rupper17"
+                },
+                {
+                  "full_name": "New York Rangers",
+                  "user_name": "thenyrangers"
+                },
+                {
+                  "full_name": "Ryan McDonagh",
+                  "user_name": "RMcDonagh27"
+                },
+                {
+                  "full_name": "Stu Bickel",
+                  "user_name": "StuBickel"
+                }
+              ]
+            },
+            {
+              "short_name": "Senators",
+              "name": "Ottawa Senators",
+              "users": [
+                {
+                  "full_name": "Ben Bishop",
+                  "user_name": "Benbishop30"
+                },
+                {
+                  "full_name": "Craig Anderson",
+                  "user_name": "CraigAnderson41"
+                },
+                {
+                  "full_name": "Erik Condra",
+                  "user_name": "ECondra"
+                },
+                {
+                  "full_name": "Erik Karlsson",
+                  "user_name": "ErikKarlsson65"
+                },
+                {
+                  "full_name": "Jesse Winchester",
+                  "user_name": "jwinch18"
+                },
+                {
+                  "full_name": "Ottawa Senators",
+                  "user_name": "NHL_Sens"
+                }
+              ]
+            },
+            {
+              "short_name": "Flyers",
+              "name": "Philadelphia Flyers",
+              "users": [
+                {
+                  "full_name": "Brandon Manning",
+                  "user_name": "BManning28"
+                },
+                {
+                  "full_name": "Claude Giroux",
+                  "user_name": "28CGiroux"
+                },
+                {
+                  "full_name": "Harry Zolnierczyk",
+                  "user_name": "HarryZ87"
+                },
+                {
+                  "full_name": "Ian Laperrière",
+                  "user_name": "dooda1414"
+                },
+                {
+                  "full_name": "Ilya Bryzgalov",
+                  "user_name": "bryzgoalie30"
+                },
+                {
+                  "full_name": "James van Riemsdyk",
+                  "user_name": "JVReemer21"
+                },
+                {
+                  "full_name": "Jaromir Jagr",
+                  "user_name": "68Jagr"
+                },
+                {
+                  "full_name": "Jody Shelley",
+                  "user_name": "shelleyhawk45"
+                },
+                {
+                  "full_name": "Matt Carle",
+                  "user_name": "mattcarle25"
+                },
+                {
+                  "full_name": "Matt Read",
+                  "user_name": "MReader24"
+                },
+                {
+                  "full_name": "Max Talbot",
+                  "user_name": "Max25talbot"
+                },
+                {
+                  "full_name": "Philadelphia Flyers",
+                  "user_name": "NHLFlyers"
+                },
+                {
+                  "full_name": "Scott Hartnell",
+                  "user_name": "Hartsy19"
+                },
+                {
+                  "full_name": "Tom Sestito",
+                  "user_name": "TomSestito23"
+                },
+                {
+                  "full_name": "Wayne Simmonds",
+                  "user_name": "Simmonds17"
+                },
+                {
+                  "full_name": "Zac Rinaldo",
+                  "user_name": "RinaldoZac"
+                }
+              ]
+            },
+            {
+              "short_name": "Coyotes",
+              "name": "Phoenix Coyotes",
+              "users": [
+                {
+                  "full_name": "Andy Miele",
+                  "user_name": "Andy_Miele"
+                },
+                {
+                  "full_name": "Chris Summers",
+                  "user_name": "chri5ummers"
+                },
+                {
+                  "full_name": "Kyle Turris",
+                  "user_name": "kyleturris"
+                },
+                {
+                  "full_name": "Mikkel Boedker",
+                  "user_name": "Mikkelboedker"
+                },
+                {
+                  "full_name": "Oliver Ekman-Larsson",
+                  "user_name": "hockeyolli"
+                },
+                {
+                  "full_name": "Paul Bissonnette",
+                  "user_name": "BizNasty2point0"
+                },
+                {
+                  "full_name": "Phoenix Coyotes",
+                  "user_name": "phoenixcoyotes"
+                }
+              ]
+            },
+            {
+              "short_name": "Penguins",
+              "name": "Pittsburgh Penguins",
+              "users": [
+                {
+                  "full_name": "Ben Lovejoy",
+                  "user_name": "RevLovejoy6"
+                },
+                {
+                  "full_name": "Eric Tangradi",
+                  "user_name": "ETangradi"
+                },
+                {
+                  "full_name": "Evgeni Malkin",
+                  "user_name": "malkin71_"
+                },
+                {
+                  "full_name": "James Neal",
+                  "user_name": "jneal_18"
+                },
+                {
+                  "full_name": "Pittsburgh Penguins",
+                  "user_name": "pghpenguins"
+                },
+                {
+                  "full_name": "Steve Sullivan",
+                  "user_name": "Sullivan26"
+                }
+              ]
+            },
+            {
+              "short_name": "Sharks",
+              "name": "San Jose Sharks",
+              "users": [
+                {
+                  "full_name": "Brent Burns",
+                  "user_name": "Burnzie88"
+                },
+                {
+                  "full_name": "Dan Boyle",
+                  "user_name": "danboyle22"
+                },
+                {
+                  "full_name": "Daniel Winnik",
+                  "user_name": "Danwinnik34"
+                },
+                {
+                  "full_name": "Frazer Mclaren",
+                  "user_name": "Frazermclaren68"
+                },
+                {
+                  "full_name": "Jamal Mayers",
+                  "user_name": "jamalmayers"
+                },
+                {
+                  "full_name": "Jim Vandermeer",
+                  "user_name": "Jim_Vandermeer"
+                },
+                {
+                  "full_name": "Logan Couture",
+                  "user_name": "Logancouture"
+                },
+                {
+                  "full_name": "Martin Havlat",
+                  "user_name": "martinhavlat"
+                },
+                {
+                  "full_name": "Ryane Clowe",
+                  "user_name": "ryaneclowe29"
+                },
+                {
+                  "full_name": "San Jose Sharks",
+                  "user_name": "SanJoseSharks"
+                },
+                {
+                  "full_name": "TJ Galiardi",
+                  "user_name": "TJGaliardi"
+                }
+              ]
+            },
+            {
+              "short_name": "Blues",
+              "name": "St. Louis Blues",
+              "users": [
+                {
+                  "full_name": "Alexander Steen",
+                  "user_name": "Steener20"
+                },
+                {
+                  "full_name": "Andy McDonald",
+                  "user_name": "10_AMac"
+                },
+                {
+                  "full_name": "Brad Winchester",
+                  "user_name": "bradwinchester"
+                },
+                {
+                  "full_name": "Brian Elliott",
+                  "user_name": "KidElls1"
+                },
+                {
+                  "full_name": "Cam Janssen",
+                  "user_name": "CamJanssen55"
+                },
+                {
+                  "full_name": "Chris Stewart",
+                  "user_name": "CstewSTL25"
+                },
+                {
+                  "full_name": "Danny Syvret",
+                  "user_name": "DannySyvret"
+                },
+                {
+                  "full_name": "David Backes",
+                  "user_name": "dbackes42"
+                },
+                {
+                  "full_name": "David Perron",
+                  "user_name": "DP_57"
+                },
+                {
+                  "full_name": "Ian Cole",
+                  "user_name": "ICole23"
+                },
+                {
+                  "full_name": "Kevin Shattenkirk",
+                  "user_name": "shattdeuces"
+                },
+                {
+                  "full_name": "Patrik Berglund",
+                  "user_name": "bulish21"
+                },
+                {
+                  "full_name": "St. Louis Blues",
+                  "user_name": "St_Louis_Blues"
+                },
+                {
+                  "full_name": "TJ Oshie",
+                  "user_name": "OSH74"
+                }
+              ]
+            },
+            {
+              "short_name": "Lightning",
+              "name": "Tampa Bay Lightning",
+              "users": [
+                {
+                  "full_name": "Brendan Mikkelson",
+                  "user_name": "Bmikk29"
+                },
+                {
+                  "full_name": "Brett Connolly",
+                  "user_name": "bconnolly8"
+                },
+                {
+                  "full_name": "JT Brown",
+                  "user_name": "JTBrown23"
+                },
+                {
+                  "full_name": "Keith Aulie",
+                  "user_name": "kaulie59"
+                },
+                {
+                  "full_name": "Marc-Andre Bergeron ",
+                  "user_name": "bergeron47"
+                },
+                {
+                  "full_name": "Mattias Ritola",
+                  "user_name": "ritto21"
+                },
+                {
+                  "full_name": "Mike Commodore",
+                  "user_name": "commie22"
+                },
+                {
+                  "full_name": "Nathan Thompson",
+                  "user_name": "NateThompson44"
+                },
+                {
+                  "full_name": "Ryan Shannon",
+                  "user_name": "ryanshannon22"
+                },
+                {
+                  "full_name": "Steve Downie",
+                  "user_name": "S9Downie"
+                },
+                {
+                  "full_name": "Steven Stamkos",
+                  "user_name": "RealStamkos91"
+                },
+                {
+                  "full_name": "Tampa Bay Lightning",
+                  "user_name": "TBLightning"
+                },
+                {
+                  "full_name": "Teddy Purcell",
+                  "user_name": "teddypurcell16"
+                },
+                {
+                  "full_name": "Victor Hedman",
+                  "user_name": "heds77"
+                },
+                {
+                  "full_name": "Vincent Lecavalier",
+                  "user_name": "VLecavalier4"
+                }
+              ]
+            },
+            {
+              "short_name": "Maple Leafs",
+              "name": "Toronto Maple Leafs",
+              "users": [
+                {
+                  "full_name": "Ben Scrivens",
+                  "user_name": "scrivens_30"
+                },
+                {
+                  "full_name": "Carl Gunnarsson",
+                  "user_name": "carl_gun"
+                },
+                {
+                  "full_name": "Colby Armstrong",
+                  "user_name": "armdog"
+                },
+                {
+                  "full_name": "Darryl Boyce",
+                  "user_name": "dboyce47"
+                },
+                {
+                  "full_name": "Jake Gardiner",
+                  "user_name": "Jgardiner272"
+                },
+                {
+                  "full_name": "Joffrey Lupul",
+                  "user_name": "JLupul"
+                },
+                {
+                  "full_name": "John-Michael Liles",
+                  "user_name": "hoosierjm26"
+                },
+                {
+                  "full_name": "Luca Caputi",
+                  "user_name": "Lputi17"
+                },
+                {
+                  "full_name": "Mike Komisarek",
+                  "user_name": "mkomisarek"
+                },
+                {
+                  "full_name": "Nazem Kadri",
+                  "user_name": "43_Kadri"
+                },
+                {
+                  "full_name": "Phil Kessel",
+                  "user_name": "PKessel81"
+                },
+                {
+                  "full_name": "Toronto Maple Leafs",
+                  "user_name": "MapleLeafs"
+                },
+                {
+                  "full_name": "Tyler Bozak",
+                  "user_name": "Bozie42"
+                }
+              ]
+            },
+            {
+              "short_name": "Canucks",
+              "name": "Vancouver Canucks",
+              "users": [
+                {
+                  "full_name": "Andrew Ebbett",
+                  "user_name": "aebbett"
+                },
+                {
+                  "full_name": "Andrew Gordon",
+                  "user_name": "AndrewGordon10"
+                },
+                {
+                  "full_name": "Bill Sweatt",
+                  "user_name": "billysweatt"
+                },
+                {
+                  "full_name": "Kevin Bieksa",
+                  "user_name": "kbieksa3"
+                },
+                {
+                  "full_name": "Marc-Andre Gragnani",
+                  "user_name": "Grags05"
+                },
+                {
+                  "full_name": "Ryan Kesler",
+                  "user_name": "Ryan_Kesler"
+                },
+                {
+                  "full_name": "Vancouver Canucks",
+                  "user_name": "VanCanucks"
+                }
+              ]
+            },
+            {
+              "short_name": "Capitals",
+              "name": "Washington Capitals",
+              "users": [
+                {
+                  "full_name": "Alex Ovechkin",
+                  "user_name": "ovi8"
+                },
+                {
+                  "full_name": "Braden Holtby",
+                  "user_name": "Holts170"
+                },
+                {
+                  "full_name": "DJ King",
+                  "user_name": "DJKING_17"
+                },
+                {
+                  "full_name": "Joel Ward",
+                  "user_name": "JRandalWard42"
+                },
+                {
+                  "full_name": "John Carlson",
+                  "user_name": "JohnCarlson74"
+                },
+                {
+                  "full_name": "John Erskine",
+                  "user_name": "johnerskine04"
+                },
+                {
+                  "full_name": "Karl Alzner",
+                  "user_name": "karlalzner"
+                },
+                {
+                  "full_name": "Mike Green",
+                  "user_name": "GreenLife52"
+                },
+                {
+                  "full_name": "Mike Knuble",
+                  "user_name": "MikeKnuble22"
+                },
+                {
+                  "full_name": "Nicklas Backstrom",
+                  "user_name": "backstrom19"
+                },
+                {
+                  "full_name": "Washington Capitals",
+                  "user_name": "washcaps"
+                }
+              ]
+            },
+            {
+              "short_name": "Jets",
+              "name": "Winnipeg Jets",
+              "users": [
+                {
+                  "full_name": "Ben Maxwell",
+                  "user_name": "benmaxwell61"
+                },
+                {
+                  "full_name": "Blake Wheeler",
+                  "user_name": "BiggieFunke"
+                },
+                {
+                  "full_name": "Eric Fehr",
+                  "user_name": "EricFehr"
+                },
+                {
+                  "full_name": "Evander Kane",
+                  "user_name": "EKane9JETS"
+                },
+                {
+                  "full_name": "Grant Clitsome",
+                  "user_name": "GClitsome"
+                },
+                {
+                  "full_name": "Jim Slater",
+                  "user_name": "slaterjim"
+                },
+                {
+                  "full_name": "Mark Stuart",
+                  "user_name": "stuchens5"
+                },
+                {
+                  "full_name": "Tim Stapleton",
+                  "user_name": "Bluce_Reee"
+                },
+                {
+                  "full_name": "Winnipeg Jets",
+                  "user_name": "Winnipeg_Jets"
+                }
+              ]
+            }
+          ],
+          "each_user_in_own_stream": false
+        }
+      ]
+    }
+  ],
+  "hashtag_categories": [
+    {
+      "name": "NHL",
+      "is_sections_sorted_alphabetically": false,
+      "hashtag_sections": [
+        {
+          "name": "",
+          "hashtag_collections": [
+            {
+              "name": "NHL",
+              "short_name": "NHL",
+              "hashtags": [
+                "NHL",
+                "NationalHockeyLeague"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Teams",
+          "hashtag_collections": [
+            {
+              "name": "Anaheim Ducks",
+              "short_name": "Ducks",
+              "hashtags": [
+                "AnaheimDucks",
+                "Ducks"
+              ]
+            },
+            {
+              "name": "Boston Bruins",
+              "short_name": "Bruins",
+              "hashtags": [
+                "BostonBruins",
+                "Bruins"
+              ]
+            },
+            {
+              "name": "Buffalo Sabres",
+              "short_name": "Sabres",
+              "hashtags": [
+                "BuffaloSabres",
+                "Sabres"
+              ]
+            },
+            {
+              "name": "Calgary Flames",
+              "short_name": "Flames",
+              "hashtags": [
+                "CalgaryFlames"
+              ]
+            },
+            {
+              "name": "Carolina Hurricanes",
+              "short_name": "Hurricanes",
+              "hashtags": [
+                "CarolinaHurricanes",
+                "Hurricanes"
+              ]
+            },
+            {
+              "name": "Chicago Blackhawks",
+              "short_name": "Blackhawks",
+              "hashtags": [
+                "ChicagoBlackhawks",
+                "Blackhawks"
+              ]
+            },
+            {
+              "name": "Colorado Avalanche",
+              "short_name": "Avalanche",
+              "hashtags": [
+                "ColoradoAvalanche",
+                "Avalanche"
+              ]
+            },
+            {
+              "name": "Columbus Blue Jackets",
+              "short_name": "Blue Jackets",
+              "hashtags": [
+                "ColumbusBlueJackets",
+                "BlueJackets"
+              ]
+            },
+            {
+              "name": "Dallas Stars",
+              "short_name": "Stars",
+              "hashtags": [
+                "DallasStars"
+              ]
+            },
+            {
+              "name": "Detroit Red Wings",
+              "short_name": "Red Wings",
+              "hashtags": [
+                "DetroitRedWings",
+                "RedWings"
+              ]
+            },
+            {
+              "name": "Edmonton Oilers",
+              "short_name": "Oilers",
+              "hashtags": [
+                "EdmontonOilers",
+                "Oilers"
+              ]
+            },
+            {
+              "name": "Florida Panthers",
+              "short_name": "Panthers",
+              "hashtags": [
+                "FloridaPanthers"
+              ]
+            },
+            {
+              "name": "Los Angeles Kings",
+              "short_name": "Kings",
+              "hashtags": [
+                "LosAngelesKings",
+                "LAKings"
+              ]
+            },
+            {
+              "name": "Minnesota Wild",
+              "short_name": "Wild",
+              "hashtags": [
+                "MinnesotaWild"
+              ]
+            },
+            {
+              "name": "Montreal Canadiens",
+              "short_name": "Canadiens",
+              "hashtags": [
+                "MontrealCanadiens",
+                "Canadiens"
+              ]
+            },
+            {
+              "name": "Nashville Predators",
+              "short_name": "Predators",
+              "hashtags": [
+                "NashvillePredators",
+                "Predators"
+              ]
+            },
+            {
+              "name": "New Jersey Devils",
+              "short_name": "Devils",
+              "hashtags": [
+                "NewJerseyDevils",
+                "NJDevils"
+              ]
+            },
+            {
+              "name": "New York Islanders",
+              "short_name": "Islanders",
+              "hashtags": [
+                "NewYorkIslanders",
+                "Islanders",
+                "NYIslanders"
+              ]
+            },
+            {
+              "name": "New York Rangers",
+              "short_name": "Rangers",
+              "hashtags": [
+                "NewYorkRangers",
+                "NYRangers"
+              ]
+            },
+            {
+              "name": "Ottawa Senators",
+              "short_name": "OttawaSenators",
+              "hashtags": [
+                "OttawaSenators"
+              ]
+            },
+            {
+              "name": "Philadelphia Flyers",
+              "short_name": "Flyers",
+              "hashtags": [
+                "PhiladelphiaFlyers",
+                "Flyers"
+              ]
+            },
+            {
+              "name": "Phoenix Coyotes",
+              "short_name": "Coyotes",
+              "hashtags": [
+                "PhoenixCoyotes",
+                "Coyotes"
+              ]
+            },
+            {
+              "name": "Pittsburgh Penguins",
+              "short_name": "Penguins",
+              "hashtags": [
+                "PittsburghPenguins",
+                "Penguins"
+              ]
+            },
+            {
+              "name": "San Jose Sharks",
+              "short_name": "Sharks",
+              "hashtags": [
+                "SanJoseSharks",
+                "SJSharks"
+              ]
+            },
+            {
+              "name": "St. Louis Blues",
+              "short_name": "Blues",
+              "hashtags": [
+                "StLouisBlues",
+                "SLBlues"
+              ]
+            },
+            {
+              "name": "Tampa Bay Lightning",
+              "short_name": "Lightning",
+              "hashtags": [
+                "TampaBayLightning",
+                "TBLightning"
+              ]
+            },
+            {
+              "name": "Toronto Maple Leafs",
+              "short_name": "Maple Leafs",
+              "hashtags": [
+                "TorontoMapleLeafs",
+                "MapleLeafs"
+              ]
+            },
+            {
+              "name": "Vancouver Canucks",
+              "short_name": "Canucks",
+              "hashtags": [
+                "VancouverCanucks",
+                "Canucks"
+              ]
+            },
+            {
+              "name": "Washington Capitals",
+              "short_name": "Capitals",
+              "hashtags": [
+                "WashingtonCapitals"
+              ]
+            },
+            {
+              "name": "Winnipeg Jets",
+              "short_name": "Jets",
+              "hashtags": [
+                "WinnipegJets"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

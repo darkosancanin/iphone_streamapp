@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BaseballStream.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>HockeyStream.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>HoopStream.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>MMAStream.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>TennisStream.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1D6058900D05DD3D006BFB54</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A226545A13BE23AB0035E74B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A239E58313B9F10500C26866</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A2A8AC8A13BC9296001F4F52</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A2DE2629137DF1FF00A598D8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
