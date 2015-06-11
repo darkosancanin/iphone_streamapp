@@ -17,19 +17,19 @@ Feature included:
 * Automatic data (user list) updates 
 
 ## Application Screenshots 
-#Hoop Stream
+###Hoop Stream
 ![Hoop Stream](https://raw.githubusercontent.com/darkosancanin/iphone_streamapp/master/images/hoopstream.png)
 
-#MMA Stream
+###MMA Stream
 ![MMA Stream](https://raw.githubusercontent.com/darkosancanin/iphone_streamapp/master/images/mmastream.png)
 
-#Baseball Stream
+###Baseball Stream
 ![Baseball Stream](https://raw.githubusercontent.com/darkosancanin/iphone_streamapp/master/images/baseballstream.png)
 
-#Hockey Stream
+###Hockey Stream
 ![Hockey Stream](https://raw.githubusercontent.com/darkosancanin/iphone_streamapp/master/images/hockeystream.png)
 
-#Tennis Stream
+###Tennis Stream
 ![Tennis Stream](https://raw.githubusercontent.com/darkosancanin/iphone_streamapp/master/images/tennisstream.png)
 
 ## Promotional Website Screenshot
